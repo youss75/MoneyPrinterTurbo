@@ -1,0 +1,25 @@
+[
+  {
+    "video_subject": "Novelbeat — Hindi teaser example",
+    "video_script": "एक राज़, जो सब कुछ बदल सकता है। क्या सच सामने आएगा? पूरी कहानी सुनिए, नॉवेलबीट पर।",
+    "video_language": "hi",
+    "video_source": "local",
+    "video_materials": [
+      {"provider": "local", "url": "../storage/novelbeat/scene-01.mp4"},
+      {"provider": "local", "url": "../storage/novelbeat/scene-02.mp4"},
+      {"provider": "local", "url": "../storage/novelbeat/scene-03.mp4"}
+    ],
+    "video_aspect": "9:16",
+    "video_fit_mode": "contain",
+    "video_concat_mode": "sequential",
+    "video_clip_duration": 8,
+    "video_clip_speed": 1.0,
+    "video_count": 1,
+    "voice_name": "hi-IN-SwaraNeural-Female",
+    "voice_rate": 1.0,
+    "voice_volume": 1.0,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "subtitle_enabled": false
+  }
+]
